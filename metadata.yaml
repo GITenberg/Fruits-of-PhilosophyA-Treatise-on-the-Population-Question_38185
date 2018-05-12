@@ -1,0 +1,47 @@
+_repo: Fruits-of-PhilosophyA-Treatise-on-the-Population-Question_38185
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Knowlton, Charles
+    birthdate: 1800
+    deathdate: 1850
+    gutenberg_agent_id: '39300'
+    url: http://www.gutenberg.org/2009/agents/39300
+  editors:
+  - agent_name: Besant, Annie
+    aliases:
+    - Besant, Annie Wood
+    - Wood, Annie
+    birthdate: 1847
+    deathdate: 1933
+    gutenberg_agent_id: '1425'
+    url: http://www.gutenberg.org/2009/agents/1425
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Besant
+  - agent_name: Bradlaugh, Charles
+    aliases:
+    - Iconoclast
+    - Bradlaugh, C. (Charles)
+    birthdate: 1833
+    deathdate: 1891
+    gutenberg_agent_id: '34430'
+    url: http://www.gutenberg.org/2009/agents/34430
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Bradlaugh
+description: ''
+gutenberg_issued: '2011-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38185'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birth control'
+- !lcc 'HQ'
+- !lcsh 'Malthusianism'
+- !lcc 'HB'
+title: 'Fruits of Philosophy: A Treatise on the Population Question'
+url: http://www.gutenberg.org/ebooks/38185
